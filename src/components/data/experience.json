@@ -1,0 +1,15 @@
+[
+  {
+    "id": 3,
+    "role": "Software Developer - Intern",
+    "organisation": "HashedBit Innovations",
+    "startDate": "Apr, 2024",
+    "endDate": "July, 2024",
+    "location": "Gurgaon",
+    "experiences": [
+      "Worked on E-commerce  UI",
+      "Helped to create API for E-Commerce"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
